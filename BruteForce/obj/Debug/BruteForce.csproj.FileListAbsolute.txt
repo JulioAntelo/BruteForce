@@ -1,0 +1,6 @@
+C:\Users\wenas\RiderProjects\BruteForce\BruteForce\bin\Debug\BruteForce.exe
+C:\Users\wenas\RiderProjects\BruteForce\BruteForce\bin\Debug\BruteForce.pdb
+C:\Users\wenas\RiderProjects\BruteForce\BruteForce\obj\Debug\BruteForce.csproj.AssemblyReference.cache
+C:\Users\wenas\RiderProjects\BruteForce\BruteForce\obj\Debug\BruteForce.csproj.CoreCompileInputs.cache
+C:\Users\wenas\RiderProjects\BruteForce\BruteForce\obj\Debug\BruteForce.exe
+C:\Users\wenas\RiderProjects\BruteForce\BruteForce\obj\Debug\BruteForce.pdb
